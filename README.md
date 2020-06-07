@@ -1,5 +1,9 @@
 # NeuroMovieSentiment
 
+<p align="center">
+    <img src="archi.png" alt="drawing" width="640" height="480"/>
+</p>
+
 ## Teammembers
 - Daniela Ruchser
 - Daniel Betsche 
